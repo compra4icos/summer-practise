@@ -1,0 +1,18 @@
+{
+    "connect":{
+        "path":{
+            "certfile":"network/ssl/server.crt",
+            "keyfile":"network/ssl/server.key"
+        },
+        "node_data":{
+            "host":"127.0.0.1",
+            "port":"5011",
+            "total_users":"10",
+            "protacol":"UDP"
+        },
+        "ssl_data":{
+            "ssl_version":"tlsv1.2",
+            "ciphers":"None"
+        }
+    }
+}
