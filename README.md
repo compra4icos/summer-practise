@@ -1,4 +1,1 @@
-# summer-practise
-# summer-practise
-# summer-practise
-# summer-practise
+# программа прослушки на удаленном компьюторе с возмажностью сжатия готового файла и отправки его на другой комрьтер 
